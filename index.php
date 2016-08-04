@@ -21,4 +21,6 @@ require( dirname( __FILE__ ) . '/wp-blog-header.php' );
 
 /** this is a test comment to see that pull from Github to PhpStorm works */
 
+/** this is a test comment to see that push from Server to Github works */
+
 
