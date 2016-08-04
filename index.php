@@ -17,4 +17,8 @@ define('WP_USE_THEMES', true);
 require( dirname( __FILE__ ) . '/wp-blog-header.php' );
 
 
-/** this is a test comment to see that git works */
+/** this is a test comment to see that push+commit from PhpStorm works */
+
+/** this is a test comment to see that pull from Github to PhpStorm works */
+
+
